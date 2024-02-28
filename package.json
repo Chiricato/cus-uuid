@@ -2,7 +2,7 @@
     "name":        "cus-uuid",
     "homepage":    "https://github.com/Chiricato/cus-uuid",
     "description": "Pure JavaScript Based Universally Unique Identifier (UUID)",
-    "version":     "1.0.1",
+    "version":     "1.0.2",
     "license":     "MIT",
     "author": {
         "name":    "Chiricato"
@@ -12,7 +12,7 @@
     ],
     "repository": {
         "type": "git",
-        "url":  "git://github.com/Chiricato/cus-uuid.git"
+        "url":  "https://github.com/Chiricato/cus-uuid.git"
     },
     "bugs": {
         "url":  "https://github.com/Chiricato/cus-uuid/issues"
